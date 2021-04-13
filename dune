@@ -1,0 +1,3 @@
+(library
+  (name dayofyear)
+  (public_name dayofyear))
